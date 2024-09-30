@@ -1,4 +1,4 @@
-# Covid-19-analysis-project
+# Covid-19 Vaccine Tracker
 
 ## Table of Contents
 
