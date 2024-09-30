@@ -23,10 +23,7 @@ By following this project, you will gain hands-on experience in:
 
 ### Description
 
-- **`data/`**: Contains the COVID-19 vaccination data in CSV format. 
   - `covid_vaccination_data.csv`: Cleaned and preprocessed data for Tableau.
-  
-- **`dashboard/`**: Contains the Tableau workbook.
   - `Global_Vaccine_Tracker.twbx`: The Tableau packaged workbook with all visualizations and configurations.
 
 ## Features
@@ -136,7 +133,8 @@ Feel free to customize the dashboard to better suit your needs or to add new fea
 - **Integrating Additional Data Sources**: Combine vaccination data with other datasets like mobility data or healthcare capacity.
 - **Improving Interactivity**: Add more filters or parameters to allow deeper data exploration.
 
-Acknowledgments
+## Acknowledgments
+
 Our World in Data: For providing comprehensive and up-to-date COVID-19 vaccination data.
 Tableau: For the powerful data visualization tools that made this project possible.
 GitHub: For hosting this repository and facilitating collaboration.
