@@ -8,8 +8,6 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
